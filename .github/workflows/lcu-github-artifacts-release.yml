@@ -1,4 +1,4 @@
-name: azhamp/public-web-react
+name: azhamp/public-web-docusaurus
 
 on:
   push:
